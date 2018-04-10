@@ -1,7 +1,8 @@
 package org.protocol.tx;
 
 /**
- * Hello world!
+ * https://blog.csdn.net/garfielder007/article/details/70515859
+ * https://www.cnblogs.com/aoshicangqiong/p/7726323.html
  *
  */
 public class App 
